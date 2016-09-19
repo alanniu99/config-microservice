@@ -1,5 +1,5 @@
 {
-  "id": "/config",
+  "id": "/movieapps/config-service/config",
   "cmd": null,
   "cpus": 0.5,
   "mem": 1000,
