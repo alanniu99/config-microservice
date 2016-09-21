@@ -1,4 +1,4 @@
-{
+[{
   "id": "/movieapps/config-service/config",
   "cmd": null,
   "cpus": 0.5,
@@ -36,4 +36,4 @@
       "forcePullImage": false
     }
   }
-}
+}]
